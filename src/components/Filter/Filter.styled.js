@@ -13,8 +13,6 @@ export const Wrapper = styled.div`
 export const Title = styled.h2`
   font-size: 30px;
   font-weight: 700;
-  color: #3361C3;
-  font-style: italic;
 `;
 
 export const Label = styled.h3`

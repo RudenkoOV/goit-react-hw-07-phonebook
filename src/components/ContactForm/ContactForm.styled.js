@@ -14,8 +14,6 @@ export const Title = styled.h2`
   font-size: 30px;
   font-weight: 700;
   margin-bottom: 10px;  
-  color: #3361C3;
-  font-style: italic;
 `;
 
 export const AddBox = styled.form`
@@ -31,8 +29,6 @@ export const Label = styled.h3`
   margin: 8px 0;
   font-size: 20px;
   font-weight: 600;
-  font-style: italic;
-  color: #7C17DA;
 `;
 
 export const AddContactButton = styled.button`
@@ -46,7 +42,7 @@ cursor: pointer;
 width: 70%;
 &:hover {
 opacity: 1;
-color: lightgreen;
+color: white;
   transform: scale(1.2);
 
 }
